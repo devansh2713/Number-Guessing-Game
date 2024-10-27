@@ -1,0 +1,2 @@
+The Number Guessing Game is a simple Python console application where players try to guess a randomly generated number. The computer provides hints whether the guessed number is too high or too low, and players must find the correct number within limited attempts. The game features different difficulty levels and keeps track of the player's score, making it both fun and challenging for users while demonstrating basic Python programming concepts.
+ 
